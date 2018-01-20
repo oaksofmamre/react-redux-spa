@@ -1,2 +1,13 @@
 # react-redux-spa
-Putting react and redux together in a single page app
+
+Putting React and Redux together, into a single-page app
+
+## Usage
+
+From command-line:
+
+```
+npm start
+```
+
+:coffee:
